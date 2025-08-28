@@ -72,7 +72,7 @@ import parcel_icon from "./parcel_icon.png";
 import Zoro from "./Zoro.jpeg";
 
 import FitZillAdmin from "./FitZillaAdmin.png";
-import FitZillaFood from "./FitZillaFood.png";
+
 import LandingPage from "./LandingPage.png";
 import News from "./News.png";
 import Todo from "./Todo.png";
@@ -102,12 +102,6 @@ export const servicesData = [
     image: FitZillAdmin,
     description:
       "A full-featured admin dashboard to manage total sales, orders, users, and restaurant data. Built for scalability and control.",
-  },
-  {
-    title: "FitZilla Food Tracker",
-    image: FitZillaFood,
-    description:
-      "Helps users discover healthy meals from the menu, with dynamic updates and smart filtering for better food choices.",
   },
   {
     title: "Landing Page Design",
