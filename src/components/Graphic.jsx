@@ -1,7 +1,6 @@
 import React, { useContext } from "react";
 import { graphics } from "../assets/assets";
 const FeaturedProjects = () => {
-  // const { graphics } = useContext(StoreContext);
 
   return (
     <section className="px-6 py-12 text-white bg-black">
