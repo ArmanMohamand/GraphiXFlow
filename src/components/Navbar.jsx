@@ -15,7 +15,7 @@ const Navbar = () => {
         <img
           src={assets.agencyIMG}
           alt="Agency Graphic"
-          className="h-10 w-auto ml-2"
+          className="h-10 w-auto ml-2 "
         />
       </div>
       <nav className="flex flex-wrap justify-center sm:justify-end space-x-4 sm:space-x-8 text-xs sm:text-sm uppercase font-medium">

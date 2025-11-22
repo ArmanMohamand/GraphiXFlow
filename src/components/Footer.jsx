@@ -64,6 +64,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      
       <div className="mt-8 text-center text-xs text-gray-500">
         © {new Date().getFullYear()} GraphiXflow. All Rights Reserved.
       </div>
