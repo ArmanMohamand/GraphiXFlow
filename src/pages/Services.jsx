@@ -31,47 +31,6 @@ const Services = () => {
             tailor our approach to meet the specific needs of each client.
           </p>
         </div>
-
-        {/* <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-          <Link to="/video">
-            <div className="bg-gradient-to-b from-black to-gray-900 p-8 rounded-lg shadow-md hover:scale-105 transition transform">
-              <FaVideo className="text-4xl text-teal-400 mb-4" />
-              <h3 className="text-xl font-bold mb-2">Video Editing </h3>
-
-              <p className="text-gray-400 text-sm">
-                We bring the right people together to best make product
-              </p>
-            </div>
-          </Link>
-          <Link to="/CGI">
-            <div className=" bg-gradient-to-b from-black to-gray-900 p-8 rounded-lg shadow-md hover:scale-105 transition transform">
-              <FaPencilRuler className="text-4xl text-teal-400 mb-4" />
-              <h3 className="text-xl font-bold mb-2"> CGI ADS </h3>
-              <p className="text-gray-400 text-sm">
-                We bring the right people together to make best product
-              </p>
-            </div>
-          </Link>
-          <Link to="/web">
-            <div className=" bg-gradient-to-b from-black to-gray-900 p-8 rounded-lg shadow-md hover:scale-105 transition transform">
-              <FaLaptopCode className="text-4xl text-teal-400 mb-4" />
-              <h3 className="text-xl font-bold mb-2"> Website Design </h3>
-              <p className="text-gray-400 text-sm">
-                We bring the right people together to make best product
-              </p>
-            </div>
-          </Link>
-          <Link to="/UIUX">
-            <div className=" bg-gradient-to-b from-black to-gray-900 p-8 rounded-lg shadow-md hover:scale-105 transition transform">
-              <FaDrawPolygon className="text-4xl text-teal-400 mb-4" />
-              <h3 className="text-xl font-bold mb-2">Graphic Design</h3>
-              <p className="text-gray-400 text-sm">
-                We bring the right people together to make best product
-              </p>
-            </div>
-          </Link>
-        </div> */}
-
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           <Link to="/video">
             <div className="bg-gradient-to-b from-black from-10% via-red-800 via-40% to-gray-900 to-90% p-8 rounded-lg shadow-md hover:scale-105 transition transform">
